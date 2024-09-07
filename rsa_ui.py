@@ -21,7 +21,7 @@ with st.sidebar:
 
     ### 🔮 About
 
-    **This is a project part of the CyberSec class MSID 2022/2023**. The objective of this assignment is to create an (interactive) program implementing the RSA algorithm allowing to:
+    **This is a project part of the Cryptography and Network Security {Winter Semester 2023-2024}**. The objective of this assignment is to create an (interactive) program implementing the RSA algorithm allowing to:
 
     - Generate RSA keys (Cryptosystem)
     - Encrypt an input message (Plaintext)
