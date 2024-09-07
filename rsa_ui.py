@@ -30,7 +30,7 @@ with st.sidebar:
     ''')
 
     st.markdown('😺 See Project Repository on [GitHub](https://github.com/saksham076/RSA)')
-    st.markdown('👨‍💻 Made by [**Saksham Garg**](https://www.linkedin.com/in/saksham-garg-71222323b) & **Saksham Garg**')
+    st.markdown('👨‍💻 Made by [**Saksham Garg**](https://www.linkedin.com/in/saksham-garg-71222323b)')
 
 col1, col2 = st.columns(2)
 
